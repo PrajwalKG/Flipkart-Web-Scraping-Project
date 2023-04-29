@@ -1,6 +1,6 @@
 # Flipkart-Web-Scraping-Project
 
-Check out the Jupyter Notebook here : https://jovian.com/prajwalkarmarkar/scraping-filpkart-details-of-mobile-phones-in-india-ff72b
+Check out the Jupyter Notebook here : https://jovian.com/prajwalkarmarkar/scraping-flipkart-details-of-mobile-phones-in-india-ff72b
 
 ## Introduction
 
